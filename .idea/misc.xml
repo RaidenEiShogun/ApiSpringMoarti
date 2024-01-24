@@ -6,6 +6,11 @@
     </list>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="IntelliCalc">
+    <mode value="0" />
+    <system value="10" />
+    <angles value="deg" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
